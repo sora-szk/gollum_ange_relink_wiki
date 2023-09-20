@@ -8,5 +8,5 @@
 
 ## rensyuu
 
-[[page1 | ./page1]]  
-[[2 | ./page2]]  
+[[page1 | sandbox/page1]]  
+[[2 | sandbox/page2]]  
