@@ -5,3 +5,8 @@
 ## Markdown
 当Wikiのデフォルト記法です。  
 [こちら(外部サイト)](https://www.markdown.jp/what-is-markdown/)を参考にしてください。  
+
+## rensyuu
+
+[[page1]]  
+[[2 | page2]]  
