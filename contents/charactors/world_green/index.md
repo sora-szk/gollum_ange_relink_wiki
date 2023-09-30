@@ -1,4 +1,6 @@
-# 緑の世界 プログレス一覧
+# キャラクター
+
+## 緑の世界 プログレス一覧
 
 * [[アインス・エクスアウラ|contents/charactors/world_green/ains_exaura]]
 * [[ナイア・ラピュセア|contents/charactors/world_green/naia_rapyusera]]

@@ -1,4 +1,6 @@
-# 赤の世界 プログレス一覧
+# キャラクター
+
+## 赤の世界 プログレス一覧
 
 * [[ヒメガミノミコト|contents/charactors/world_red/himegaminomikoto]]
 * [[オルトリン|contents/charactors/world_red/ortrin]]

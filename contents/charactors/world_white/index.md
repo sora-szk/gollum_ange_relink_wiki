@@ -1,4 +1,6 @@
-# 白の世界 プログレス一覧
+# キャラクター
+
+## 白の世界 プログレス一覧
 
 * [[コードΩ00ユーフィリア|contents/charactors/world_white/yufiria]]
 * [[コードΩ46セニア|contents/charactors/world_white/senia]]

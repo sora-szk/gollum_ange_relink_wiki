@@ -1,4 +1,6 @@
-# プログレス 世界一覧
+# キャラクター
+
+## 世界一覧
 
 * [[青の世界|contents/charactors/world_blue/index]]
 * [[黒の世界|contents/charactors/world_black/index]]

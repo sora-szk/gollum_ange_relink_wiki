@@ -1,4 +1,6 @@
-# 青の世界 プログレス一覧
+# キャラクター
+
+## 青の世界 プログレス一覧
 
 * [[久遠空|contents/charactors/world_blue/sora_kuon]]
 * [[日向美海|contents/charactors/world_blue/miumi_hyuga]]
