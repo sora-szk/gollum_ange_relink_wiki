@@ -7,10 +7,10 @@
 
 ## 目次
 
-1. [[ゲーム概要|contents/game_info]]
-2. [[キャラクター|contents/charactors/index]]
-3. [[クエスト|contents/quests/index]]
-4. [[BBシミュレーター|contents/bb/index]]
+1. [[ゲーム概要|/contents/game_info]]
+2. [[キャラクター|/contents/charactors/index]]
+3. [[クエスト|/contents/quests/index]]
+4. [[BBシミュレーター|/contents/bb/index]]
 5. [[Q&A|qa/index]]
 6. [[コミュニティガイドライン|docs/community_guide]]
 7. [公式サイト(外部サイト)](https://ange.f4games.jp)

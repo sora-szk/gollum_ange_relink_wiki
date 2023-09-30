@@ -10,7 +10,7 @@ A. 3/30の*ようこそ!青空寮へ!*を*Perfect Link*でクリアしている�
 
 ### タイプってなんですか？
 A. 各プログレスが最も得意とするEXLの系統です。  
-例えば、全てのEXにデバフ効果を持つ[[リゼリッタ(悪魔の略装)|contents/charactors/world_black/rizeritta]]のタイプは*Trickster*です。
+例えば、全てのEXにデバフ効果を持つ[[リゼリッタ(悪魔の略装)|/contents/charactors/world_black/rizeritta]]のタイプは*Trickster*です。
 
 ## クエスト
 
