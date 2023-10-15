@@ -10,11 +10,12 @@
 1. [[ゲーム概要|/contents/game_info]]
 2. [[キャラクター|/contents/charactors/index]]
 3. [[クエスト|/contents/quests/index]]
-4. [[BBシミュレーター|/contents/bb/index]]
-5. [[Q&A|qa/index]]
-6. [[コミュニティガイドライン|docs/community_guide]]
-7. [公式サイト(外部サイト)](https://ange.f4games.jp)
-8. [[SandBox(練習ページ)|sandbox/index]]
+4. [[アイテム|/contents/items/index]]
+5. [[BBシミュレーター|/contents/bb/index]]
+6. [[Q&A|qa/index]]
+7. [[コミュニティガイドライン|docs/community_guide]]
+8. [公式サイト(外部サイト)](https://ange.f4games.jp)
+9. [[SandBox(練習ページ)|sandbox/index]]
 
 ---
 
